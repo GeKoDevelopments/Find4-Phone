@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="MasterMind_Colors_Game.CreditsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MasterMind_Colors_Game"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="using:Microsoft.Advertising.WinRT.UI"
+    mc:Ignorable="d">
+
+    <Grid x:ConnectionId='1'                     >
+        <Grid.Background>
+            <ImageBrush x:ConnectionId='2' x:Name="backgroundGrid" ImageSource="img/WoodFloor.jpg" />
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5.75*"/>
+            <RowDefinition Height="0.75*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel VerticalAlignment="Center">
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Developed by:" VerticalAlignment="Center" FontSize="48" Foreground="Black"/>
+            <TextBlock />
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Athanasopoulos" VerticalAlignment="Center" FontSize="48" Foreground="Black"/>
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Georgios" VerticalAlignment="Center" FontSize="48" Foreground="Black"/>
+            <TextBlock />
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="And" VerticalAlignment="Center" FontSize="48" Foreground="Black"/>
+            <TextBlock />
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Karatsenidis" VerticalAlignment="Center" FontSize="48" Foreground="Black" />
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Konstantinos" VerticalAlignment="Center" FontSize="48" Foreground="Black"/>
+        </StackPanel>
+
+        <Grid x:ConnectionId='3' x:Name="Ad" Grid.Row="1" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Background="Gray" >
+            <UI:AdControl  
+            ApplicationId="9nblggh1zv29" AdUnitId="1100011967"
+            Height="80"  Width="{Binding ActualWidth, ElementName=Ad}"
+            />
+        </Grid>
+
+    </Grid>
+</Page>
+

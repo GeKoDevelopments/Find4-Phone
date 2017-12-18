@@ -1,0 +1,2 @@
+MainPackage=C:\Users\George\Desktop\MasterMind_Colors_Game\MasterMind_Colors_Game\bin\x64\Release\MasterMind_Colors_Game_3.0.4.0_x64.appx
+SymbolPackage=C:\Users\George\Desktop\MasterMind_Colors_Game\MasterMind_Colors_Game\AppPackages\MasterMind_Colors_Game_3.0.4.0_Test\MasterMind_Colors_Game_3.0.4.0_x64.appxsym

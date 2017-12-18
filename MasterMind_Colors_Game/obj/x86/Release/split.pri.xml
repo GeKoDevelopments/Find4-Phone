@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="37929GeorgeAthanasopoulos.MastermindColorsGame" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>256,16,24,32,48</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CreditsPage.xbf" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/CreditsPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Find4Page.xbf" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/Find4Page.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Find4_selection_display.xbf" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/Find4_selection_display.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InstructionsPage.xbf" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/InstructionsPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MasterMind_Colors_Game.xr.xml" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/MasterMind_Colors_Game.xr.xml">
+				<Candidate type="Path">
+					<Value>MasterMind_Colors_Game.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LargeTile.png" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/Assets/LargeTile.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LargeTile.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Mastermind_Logo.png" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/Assets/Mastermind_Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Mastermind_Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallTile.png" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/Assets/SmallTile.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SmallTile.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-48, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="img">
+				<NamedResource name="board.png" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/img/board.png">
+					<Candidate type="Path">
+						<Value>img\board.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DarkWood.jpg" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/img/DarkWood.jpg">
+					<Candidate type="Path">
+						<Value>img\DarkWood.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MastermindLabel.png" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/img/MastermindLabel.png">
+					<Candidate type="Path">
+						<Value>img\MastermindLabel.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="quess_color.png" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/img/quess_color.png">
+					<Candidate type="Path">
+						<Value>img\quess_color.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WoodFloor.jpg" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/img/WoodFloor.jpg">
+					<Candidate type="Path">
+						<Value>img\WoodFloor.jpg</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Media">
+				<NamedResource name="fail.mp3" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/Media/fail.mp3">
+					<Candidate type="Path">
+						<Value>Media\fail.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Rollover.mp3" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/Media/Rollover.mp3">
+					<Candidate type="Path">
+						<Value>Media\Rollover.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Ta Da.wav" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/Media/Ta Da.wav">
+					<Candidate type="Path">
+						<Value>Media\Ta Da.wav</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Microsoft.Advertising.winmd" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/WinMetadata/Microsoft.Advertising.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Microsoft.Advertising.winmd</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Windows.winmd" uri="ms-resource://37929GeorgeAthanasopoulos.MastermindColorsGame/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

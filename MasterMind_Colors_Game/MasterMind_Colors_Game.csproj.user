@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>false</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SplashScreenSource>C:\Users\George\Desktop\MasterMind_Colors_Game\MasterMind_Colors_Game\Assets\logo.png</SplashScreenSource>
+    <Source>C:\Users\George\Desktop\MasterMind_Colors_Game\MasterMind_Colors_Game\Assets\logo.png</Source>
+    <SmallTileSource>C:\Users\George\Desktop\MasterMind_Colors_Game\MasterMind_Colors_Game\Assets\logo.png</SmallTileSource>
+    <MediumTileSource>C:\Users\George\Desktop\MasterMind_Colors_Game\MasterMind_Colors_Game\Assets\logo.png</MediumTileSource>
+    <WideTileSource>C:\Users\George\Desktop\MasterMind_Colors_Game\MasterMind_Colors_Game\Assets\logo.png</WideTileSource>
+    <LargeTileSource>C:\Users\George\Desktop\MasterMind_Colors_Game\MasterMind_Colors_Game\Assets\logo.png</LargeTileSource>
+    <AppIconSource>C:\Users\George\Desktop\MasterMind_Colors_Game\MasterMind_Colors_Game\Assets\logo.png</AppIconSource>
+    <AppxShowAllApps>True</AppxShowAllApps>
+    <AppxPackageIsForStore>True</AppxPackageIsForStore>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <PackageLogoSource>C:\Users\George\Desktop\MasterMind_Colors_Game\MasterMind_Colors_Game\Assets\logo.png</PackageLogoSource>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>false</UseEmulator>
+  </PropertyGroup>
+</Project>
